@@ -1,0 +1,10 @@
+.panel {
+  border: 0;
+  box-shadow: none;
+  padding: 0;
+  margin: 0;
+}
+
+.table > thead > tr > th, .table > thead > tr > td {
+  border: 0;
+} 
